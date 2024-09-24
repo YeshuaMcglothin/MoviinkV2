@@ -16,6 +16,7 @@ public class Main {
         String Lastname = "Bezo";
         String State = "Arizona";
         String City = "Scottsdale";
+        short Pin = 1234;
 
         long CardNumber = 4339238823239929L;
         int Zipcode = 85051;
@@ -31,6 +32,7 @@ public class Main {
         System.out.println("Released in " + MovieReleaseYear);
         System.out.println("Rating of " + MovieRating);
         System.out.println("Number of reviews " + NumberOfReviews);
+        System.outprintln("Your Pin is " + Pin);
 
 
 
